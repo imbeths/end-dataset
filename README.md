@@ -59,9 +59,9 @@ $h language of the original text (if translated)
 - 090: Locally-assigned call number[f] (Obsolete--not part of standard MARC 21 Bibliographic format)
 
 #### 100 Fields - Standardized author/title information (Derived from base catalog records)
-- 100: Author name
-$a Last Name, First Name
-$c Title (EX: Sir, Dr., etc)
+- 100: Author name<br>
+$a Last Name, First Name<br>
+$c Title (EX: Sir, Dr., etc)<br>
 $d dates of birth and death
 - 130: Uniform Title
 
